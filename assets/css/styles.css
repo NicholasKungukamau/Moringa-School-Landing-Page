@@ -30,3 +30,54 @@ nav > .tabs> ul > li{
     border-radius: 12px;
     font-size: larger;
   }
+
+  #sectabout{
+    padding-top: 150px;
+    padding-left: 75px;
+display:flex;
+width: ;
+}
+.ringa{
+opacity: 0.8;
+
+}
+
+.nurt{
+    color: #EC4067;
+    font-size: 45px;
+}
+
+.button2{
+    color: white;
+    padding: 10px;
+    border-radius: 12px;
+    background-color: #EC4067;
+    font-size: larger;
+    padding-right: 30px;
+}
+
+.button3{
+    color: #EC4067;
+    font-size: large;
+    padding: 10px;
+    background-color: white;
+padding-right: 50px;
+padding-left: 20px;
+margin-left: 30px;
+}
+
+.th{
+    font-size: x-large;
+    opacity: 0.7;
+}
+
+.moringa{
+width: 50%;
+}
+
+.top{
+    width: 50%;
+    padding-left: 600px;
+}
+    
+    
