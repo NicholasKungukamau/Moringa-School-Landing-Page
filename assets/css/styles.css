@@ -79,5 +79,43 @@ width: 50%;
     width: 50%;
     padding-left: 600px;
 }
+
+#stories{
+    padding-top: 150px;
+    padding-left: 75px;
+    width: 50%; 
+}
+
+.sto{
+    font-size: xx-large;
+}
     
-    
+.so{
+    font-size: medium;
+    opacity: 0.6;
+}
+
+#ori{
+    display: flex;
+    margin-left: 75px;
+}
+
+.od{
+    width: 50%;
+    padding-left: 200px;
+    font-size: x-large;
+}
+
+.button4{
+    color: white;
+    padding: 10px;
+    border-radius: 12px;
+    background-color: #EC4067;
+    font-size: larger;
+    padding-right: 30px;
+    font-size: x-large;
+}
+
+.ip{
+    opacity: 0.7;
+}
