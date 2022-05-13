@@ -162,5 +162,36 @@ width: 50%;
     font-size: x-large;
     padding-right: 30px;
 }
- 
+ /* sect*/
+
+#grad{
+    display: flex;
+    margin-left: 75px;
+    margin-top: 50px;
+}
+
+.gd{
+    width: 50%;
+    padding-left: 100px;
+    font-size: x-large;
+}
+
+.button6{
+    color: white;
+    padding: 10px;
+    border-radius: 12px;
+    background-color: #EC4067;
+    font-size: larger;
+    padding-right: 30px;
+    font-size: x-large;
+}
+
+.tam{
+    opacity: 0.7;
+}
+
+.gp{
+    font-size: x-large;
+}
+
 
