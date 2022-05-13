@@ -244,8 +244,19 @@ width: 50%;
 .byrone{
     position: absolute;
     padding-top: 120px;
-    left: 450px;
+    left: 440px;
     color:white;
     font-size: large;  
 }
 
+.raphael{
+    padding-left: 100px;
+}
+
+.katana{
+    position: absolute;
+    padding-top: 120px;
+    left: 760px;
+    color:white;
+    font-size: large;  
+}
