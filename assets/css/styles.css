@@ -35,7 +35,6 @@ nav > .tabs> ul > li{
     padding-top: 150px;
     padding-left: 75px;
 display:flex;
-width: ;
 }
 .ringa{
 opacity: 0.8;
@@ -98,11 +97,12 @@ width: 50%;
 #ori{
     display: flex;
     margin-left: 75px;
+    margin-top: 50px;
 }
 
 .od{
     width: 50%;
-    padding-left: 200px;
+    padding-left: 100px;
     font-size: x-large;
 }
 
@@ -119,3 +119,48 @@ width: 50%;
 .ip{
     opacity: 0.7;
 }
+
+.ord{
+    font-size: x-large;
+}
+
+#board{
+    display: flex;
+    margin-left: 75px;
+    font-size: x-large;
+    margin-top: 50px;
+}
+
+#board> .dol{
+width: 50%;
+
+
+}
+
+.bm{
+ width: 50%;
+
+}
+   
+.hd{
+    font-size: x-large;
+}
+
+.bm{
+    padding-left: 100px;
+}
+
+.dol{
+    opacity: 0.7;
+}
+
+.button5{
+    color: white;
+    padding: 10px;
+    border-radius: 12px;
+    background-color: #EC4067;
+    font-size: x-large;
+    padding-right: 30px;
+}
+ 
+
