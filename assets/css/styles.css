@@ -272,3 +272,43 @@ width: 50%;
     color:white;
     font-size: large;  
 }
+
+.pr{
+    font-size: xx-large;
+    padding-left: 75px;
+    opacity: 0.7;
+}
+
+.hop{ margin-top: 120px;
+    opacity: 0.7;
+}
+
+#bike{
+    display: flex;
+    margin-left: 75px;
+    margin-top: 20px;
+}
+
+.iz{
+    opacity: 0.8;
+}
+.kul{
+    color: #EC4067;
+    font-size: xx-large;
+    margin-top: 50px;
+}
+
+.app{
+    font-size: larger;
+    opacity: 0.7;
+}
+ 
+.button8{
+    color: white;
+    padding: 10px;
+    border-radius: 12px;
+    background-color: #EC4067;
+    font-size: larger;
+    padding-right: 30px;
+    font-size: x-large;
+}
