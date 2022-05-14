@@ -1,5 +1,5 @@
 # Moringa School Landing Page
- Moringa School Page   (https://github.com/NicholasKungukamau/Moringa-School-Landing-Page.git)
+ Moringa School Page  https://github.com/NicholasKungukamau/Moringa-School-Landing-Page.git
 ### Author
 Nicholas Kung'u Kamau
 ### Description
@@ -14,7 +14,7 @@ You need to have git installed You can install it with the following command in 
 To access this project on your local files, you can clone it using these steps
 
 1. Open your terminal.
-2. Use this command to clone `$ git clone (https://github.com/NicholasKungukamau/Moringa-School-Landing-Page.git)
+2. Use this command to clone `$ git clone https://github.com/NicholasKungukamau/Moringa-School-Landing-Page.git
 3. This will clone the repository into your local folder.
 4. Unzip the downloaded files in a folder of choice.
 5. Open the index file from the zipped file with any browser.
@@ -25,7 +25,7 @@ To access this project on your local files, you can clone it using these steps
 3. Git- used for tracking changes in the source code.
 
 ### Live site
-Click this link to view live [https://nicholaskungukamau.github.io/Moringa-School-Landing-Page/]
+Click this link to view live https://nicholaskungukamau.github.io/Moringa-School-Landing-Page/
 
 ### Licence
 
